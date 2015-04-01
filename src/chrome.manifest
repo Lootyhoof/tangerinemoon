@@ -1,0 +1,7 @@
+skin    browser         Tangerinemoon	chrome/browser/
+skin    global          Tangerinemoon	chrome/global/
+skin    mozapps         Tangerinemoon	chrome/mozapps/
+
+skin    os_special         Tangerinemoon	chrome/os_special/general/
+
+skin    os_special         Tangerinemoon	chrome/os_special/aero/ os=WINNT osversion>=6 

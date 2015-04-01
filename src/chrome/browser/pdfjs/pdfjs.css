@@ -1,0 +1,102 @@
+html[dir='ltr'] .toolbarButton.findNext::before {
+  content: url("findbarButton-next.png") !important;
+}
+html[dir='rtl'] .toolbarButton.findNext::before {
+  content: url("findbarButton-next-rtl.png") !important;
+}
+html[dir='ltr'] .toolbarButton.findPrevious::before {
+  content: url("findbarButton-previous.png") !important;
+}
+html[dir='rtl'] .toolbarButton.findPrevious::before {
+  content: url("findbarButton-previous-rtl.png") !important;
+}
+.secondaryToolbarButton.documentProperties::before {
+  content: url("secondaryToolbarButton-documentProperties.png") !important;
+}
+.secondaryToolbarButton.firstPage::before {
+  content: url("secondaryToolbarButton-firstPage.png") !important;
+}
+.secondaryToolbarButton.handTool::before {
+  content: url("secondaryToolbarButton-handTool.png") !important;
+}
+.secondaryToolbarButton.lastPage::before {
+  content: url("secondaryToolbarButton-lastPage.png") !important;
+}
+.secondaryToolbarButton.rotateCcw::before {
+  content: url("secondaryToolbarButton-rotateCcw.png") !important;
+}
+.secondaryToolbarButton.rotateCw::before {
+  content: url("secondaryToolbarButton-rotateCw.png") !important;
+}
+.toolbarButton.bookmark::before,
+.secondaryToolbarButton.bookmark::before {
+  content: url("toolbarButton-bookmark.png") !important;
+}
+.toolbarButton.download::before,
+.secondaryToolbarButton.download::before {
+  content: url("toolbarButton-download.png") !important;
+}
+.dropdownToolbarButton {
+  background: url("toolbarButton-menuArrows.png") no-repeat !important;
+}
+
+html[dir='ltr'] .dropdownToolbarButton {
+  background-position: 95% !important;
+}
+html[dir='rtl'] .dropdownToolbarButton {
+  background-position: 5% !important;
+}
+.toolbarButton.openFile::before,
+.secondaryToolbarButton.openFile::before {
+  content: url("toolbarButton-openFile.png") !important;
+}
+html[dir='ltr'] .toolbarButton.pageDown::before {
+  content: url("toolbarButton-pageDown.png") !important;
+}
+html[dir='rtl'] .toolbarButton.pageDown::before {
+  content: url("toolbarButton-pageDown-rtl.png") !important;
+}
+html[dir='ltr'] .toolbarButton.pageUp::before {
+  content: url("toolbarButton-pageUp.png") !important;
+}
+html[dir='rtl'] .toolbarButton.pageUp::before {
+  content: url("toolbarButton-pageUp-rtl.png") !important;
+}
+.toolbarButton.presentationMode::before,
+.secondaryToolbarButton.presentationMode::before {
+  content: url("toolbarButton-presentationMode.png") !important;
+}
+.toolbarButton.print::before,
+.secondaryToolbarButton.print::before {
+  content: url("toolbarButton-print.png") !important;
+}
+#viewFind.toolbarButton::before {
+  content: url("toolbarButton-search.png") !important;
+}
+html[dir='ltr'] .toolbarButton#secondaryToolbarToggle::before {
+  content: url("toolbarButton-secondaryToolbarToggle.png") !important;
+}
+html[dir='rtl'] .toolbarButton#secondaryToolbarToggle::before {
+  content: url("toolbarButton-secondaryToolbarToggle-rtl.png") !important;
+}
+html[dir='ltr'] .toolbarButton#sidebarToggle::before {
+  content: url("toolbarButton-sidebarToggle.png") !important;
+}
+html[dir='rtl'] .toolbarButton#sidebarToggle::before {
+  content: url("toolbarButton-sidebarToggle-rtl.png") !important;
+}
+html[dir="ltr"] #viewOutline.toolbarButton::before {
+  content: url("toolbarButton-viewOutline.png") !important;
+}
+html[dir="rtl"] #viewOutline.toolbarButton::before {
+  content: url("toolbarButton-viewOutline-rtl.png") !important;
+}
+#viewThumbnail.toolbarButton::before {
+  content: url("toolbarButton-viewThumbnail.png") !important;
+}
+.toolbarButton.zoomIn::before {
+  content: url("toolbarButton-zoomIn.png") !important;
+}
+.toolbarButton.zoomOut::before {
+  content: url("toolbarButton-zoomOut.png") !important;
+}
