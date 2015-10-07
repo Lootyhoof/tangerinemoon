@@ -5,3 +5,6 @@ skin    mozapps         Tangerinemoon	chrome/mozapps/
 skin    os_special         Tangerinemoon	chrome/os_special/general/
 
 skin    os_special         Tangerinemoon	chrome/os_special/aero/ os=WINNT osversion>=6 
+
+skin 	appver 			Tangerinemoon 	chrome/appver/25/ appversion<=26.0.0b2
+skin 	appver 			Tangerinemoon 	chrome/appver/26/ appversion>26.0.0b2
