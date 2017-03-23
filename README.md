@@ -1,7 +1,7 @@
 # Tangerinemoon
 ![Preview](http://i63.tinypic.com/142haae.png)
 
-Fork of the theme [Tangerinefox] (https://addons.mozilla.org/en-US/firefox/addon/tangerinefox/) by Haven667 for Pale Moon.
+Fork of the theme [Tangerinefox](https://addons.mozilla.org/firefox/addon/tangerinefox/) by Haven667 for Pale Moon.
 
 For about:home and PDF.js styling, apply the file "extras.css" in the styles folder into userContent.css or Stylish.
 
