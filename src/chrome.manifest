@@ -4,8 +4,11 @@ skin    mozapps-icons   Tangerinemoon	chrome/mozapps-icons/
 
 skin    os         Tangerinemoon	chrome/os/linux/ os=Linux
 skin    os         Tangerinemoon  chrome/os/darwin/ os=Darwin
+skin    os         Tangerinemoon  chrome/os/winnt/ os=WINNT
 
 override chrome://abouthome/skin/abouthome.css chrome://browser/skin/abouthome/abouthome.css
+
+override chrome://browser/skin/permissions/aboutPermissions.css chrome://browser/skin/preferences/aboutPermissions.css
 
 style chrome://global/content/console.xul chrome://global-icons/skin/console/console.css
 
@@ -22,6 +25,7 @@ override chrome://global/skin/dirListing/up.png chrome://global-icons/skin/dirLi
 override chrome://global/skin/icons/blacklist_favicon.png chrome://global-icons/skin/icons/blacklist_favicon.png
 override chrome://global/skin/icons/blacklist_large.png chrome://global-icons/skin/icons/blacklist_large.png
 override chrome://global/skin/icons/close.png chrome://global-icons/skin/icons/close.png
+override chrome://global/skin/icons/close.svg chrome://global-icons/skin/icons/close.png
 override chrome://global/skin/icons/Error.png chrome://global-icons/skin/icons/Error.png
 override chrome://global/skin/icons/error-16.png chrome://global-icons/skin/icons/error-16.png
 override chrome://global/skin/icons/error-24.png chrome://global-icons/skin/icons/error-24.png
