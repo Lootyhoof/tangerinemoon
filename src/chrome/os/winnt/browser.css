@@ -1,7 +1,7 @@
 :root {
-  --appmenu-background: url("chrome://browser/skin/icon.png") no-repeat, linear-gradient(rgb(125,166,210), rgb(97,148,203) 95%);
+  --appmenu-background: url("chrome://browser/skin/icon.png") no-repeat, linear-gradient(rgb(249,190,104), rgb(241,141,34) 95%);
   --appmenu-border-radius: 4px;
-  --appmenu-border: rgba(53,102,164,.9);
+  --appmenu-border: rgba(194,93,9,.9);
   --appmenu-box-shadow: 0 1px 0 rgba(255,255,255,.25) inset, 0 0 0 1px rgba(255,255,255,.25) inset;
   
   --window-text-color: currentColor;
@@ -58,9 +58,9 @@
 }
 
 #appmenu-button:hover:not(:active):not([open]) {
-  --appmenu-background: url("chrome://browser/skin/icon.png") no-repeat, radial-gradient(circle farthest-side at center bottom, rgba(145,186,210,.5) 10%, rgba(117,168,223,0) 70%), radial-gradient(circle farthest-side at center bottom, rgb(95,136,180), rgba(183,205,228,0)), linear-gradient(rgb(105,146,190), rgb(77,128,183) 95%);
-  --appmenu-border: rgba(53,102,164,.9);
-  --appmenu-box-shadow: 0 1px 0 rgba(255,255,255,.1) inset, 0 0 1.5px 1px rgba(155,196,240,.7) inset, 0 -1px 0 rgba(155,196,240,.5) inset;
+  --appmenu-background: url("chrome://browser/skin/icon.png") no-repeat, radial-gradient(circle farthest-side at center bottom, rgba(255,210,124,.5) 10%, rgba(255,161,54,0) 70%), radial-gradient(circle farthest-side at center bottom, rgb(219,160,74), rgba(250,238,219,0)), linear-gradient(rgb(229,170,84), rgb(221,121,14) 95%);
+  --appmenu-border: rgba(194,93,9,.9);
+  --appmenu-box-shadow: 0 1px 0 rgba(255,255,255,.1) inset, 0 0 1.5px 1px rgba(255,220,134,.7) inset, 0 -1px 0 rgba(255,220,134,.5) inset;
 }
 
 #main-window[privatebrowsingmode=temporary] #appmenu-button:hover:not(:active):not([open]) {
@@ -71,7 +71,7 @@
 
 #appmenu-button:hover:active,
 #appmenu-button[open] {
-  --appmenu-background: url("chrome://browser/skin/icon.png") no-repeat, linear-gradient(rgb(105,146,190), rgb(77,128,183) 95%);
+  --appmenu-background: url("chrome://browser/skin/icon.png") no-repeat, linear-gradient(rgb(229,170,84), rgb(221,121,14) 95%);
   --appmenu-border-radius: 0;
   --appmenu-box-shadow: 0 2px 3px rgba(0,0,0,.4) inset, 0 1px 1px rgba(0,0,0,.2) inset;
 }
