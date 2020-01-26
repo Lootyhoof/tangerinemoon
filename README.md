@@ -1,5 +1,5 @@
 # Tangerinemoon
-![Preview](http://i63.tinypic.com/142haae.png)
+![Preview](https://i.imgur.com/w812uRH.png)
 
 Fork of the theme "Tangerinefox" by Haven667 for Pale Moon.
 
