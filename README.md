@@ -1,7 +1,7 @@
 # Tangerinemoon
-![Preview](https://i.imgur.com/w812uRH.png)
+![Preview](https://i.imgur.com/ik8HBQH.png)
 
-Fork of the theme "Tangerinefox" by Haven667 for Pale Moon.
+Fork of the themes "Tangerinefox" and "Tangerinebird" by Haven667 for Pale Moon and Interlink.
 
 ## Building
 Simply download the contents of the "src" folder  and pack the contents into a .zip file. Then, rename the file to .xpi and drag into the browser.
