@@ -1,5 +1,8 @@
 skin    browser         Tangerinemoon	chrome/browser/
+skin    editor         Tangerinemoon	chrome/editor/
 skin    global-icons    Tangerinemoon	chrome/global-icons/
+skin    messenger         Tangerinemoon	chrome/messenger/
+skin    messenger-newsblog         Tangerinemoon	chrome/messenger-newsblog/
 skin    mozapps-icons   Tangerinemoon	chrome/mozapps-icons/
 
 skin    os         Tangerinemoon	chrome/os/linux/ os=Linux
