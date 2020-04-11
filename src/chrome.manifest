@@ -5,7 +5,7 @@ skin    messenger         Tangerinemoon	chrome/messenger/
 skin    messenger-newsblog         Tangerinemoon	chrome/messenger-newsblog/
 skin    mozapps-icons   Tangerinemoon	chrome/mozapps-icons/
 
-skin    os         Tangerinemoon	chrome/os/linux/ os=Linux
+skin    os         Tangerinemoon	chrome/os/linux/
 skin    os         Tangerinemoon  chrome/os/darwin/ os=Darwin
 skin    os         Tangerinemoon  chrome/os/winnt/ os=WINNT
 
